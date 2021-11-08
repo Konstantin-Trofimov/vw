@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "snowpack dev",
+    "build": "snowpack build",
+    "lint": "standard --fix"
+  },
+  
+  "devDependencies": {
+    "@snowpack/plugin-sass": "^1.4.0",
+    "snowpack": "^3.8.8",
+    "standard": "^16.0.4"
+  }
+}
